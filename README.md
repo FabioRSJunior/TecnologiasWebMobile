@@ -2,7 +2,7 @@
 Material da disciplina de Web Mobile UFU 2022
 
 Instale o React e o JavaScrit seguindo o tutorial do Rocketset: 
-
+https://react-native.rocketseat.dev/
 
 Para criar um novo projeto execute: 
 
