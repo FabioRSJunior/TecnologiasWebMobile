@@ -6,9 +6,11 @@ https://react-native.rocketseat.dev/
 
 Para criar um novo projeto execute: 
 
-yarn start
-
 npx create-react-app sistema-01
+
+Para executar, use o comando:
+
+yarn start
 
 ## Servidor
 
